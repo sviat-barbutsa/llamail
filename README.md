@@ -1,6 +1,6 @@
 # llamail
 
-Your private email agent, running locally. Control your inbox from Telegram — RAG search, drafts, campaigns, and a persistent synthetic persona. Runs on consumer hardware. Zero cloud, zero monthly bills.
+Your private email agent, running locally. Control your inbox from Telegram — RAG search, drafts, campaigns, and a persistent synthetic persona. Runs on consumer hardware. Local inference with no paid model API, zero monthly bills.
 
 ## Architecture
 
